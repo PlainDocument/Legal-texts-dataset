@@ -19,7 +19,7 @@ Xml file structure
         │     │ ├── pos tag
         │     │ ├── dep tag
         │     │ ├── pymorphy morph and pos tags
-        │     │ └─ slovnet morph tags
+        │     │ └── slovnet morph tags
         │     └── ...
         │
         |     
