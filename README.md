@@ -33,5 +33,5 @@ Xml file structure
 * xml_test contains 500 sample files
 ### Complexity metrics
 Linguistic parameters and features related to the task of [text complexity estimation](https://github.com/PlainDocument/Models)
-* Full metrics file is available at [YandexDisk](https://disk.yandex.ru/d/7j_2-9ep835kaA)
+* Full metrics file is available at [YandexDisk](https://disk.yandex.ru/d/IZno-v2hSOiyuQ)
 * test_metrcis.csv contains metrics for the 500 sample documents
