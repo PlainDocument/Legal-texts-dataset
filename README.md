@@ -1,10 +1,10 @@
 ## Dataset
-Dataset of russian legal documents of different genres
+Dataset of Russian legal documents of different genres
 
 Collected and processed as part of [Plain Document Project](https://www.plaindocument.org/)
 
 
-## Strcucture
+## Structure
 Xml file structure
 
     ├── head 
