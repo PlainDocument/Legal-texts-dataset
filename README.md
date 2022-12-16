@@ -1,7 +1,7 @@
 ## Dataset
 Dataset of Russian legal documents of different genres
 
-Collected and processed as part of [Plain Document Project](https://www.plaindocument.org/)
+Collected and processed as part of the [Plain Document Project](https://www.plaindocument.org/)
 
 
 ## Structure
